@@ -8,6 +8,6 @@ I'm Hector reporting at the site, a backend developer and multimedia engineer in
 - ⌚ Strongly interested in real time applications.
 - 💬 Talk me about Sci-fi, Ultimate Frisbee, Music and survive as foreign.
 
-## 🎯 Current personal project I work on: [ExPoll](https://github.com/Hector-f-Romero/ExPoll)
+## 🎯 Current personal project I work on: [Card Trade GraphQL](https://github.com/Hector-f-Romero/Card-trade-GraphQL)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector-f-Romero&layout=compact&exclude_repo=Tetris-speech-recognition&theme=github_dark)
